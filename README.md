@@ -13,4 +13,4 @@ man, which, chsh, whereis, passwd, date, cal, clear, sleep, alias, unalias, hist
 3. Then, if you want to make the change in the name of the command which is prompted on the screen, then enter ‘y’ and press enter, otherwise enter any other letter, other than ‘y’ and press enter.
 4. If you have pressed ‘y’, the updated statement with the correct command name will be displayed, otherwise, the initial statement would be displayed.
 Here is a screenshot, showing the correct usage
-![alt text](https://imgur.com/kidzzhN)
+![alt text](https://imgur.com/a/LZOhbUj)
